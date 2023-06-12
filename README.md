@@ -1,16 +1,16 @@
 # Exp-6 Create a simple calculator built with React
-## AIM:
+## Aim:
 To create react app to develop a complete Simple Calculator application with all features.
-## PROCEDURE:
-### STEP 1:
+## Algorithm:
+### Step 1:
 Create react app by npm create-react-app.
-### STEP 2:
+### Step 2:
 Make changes to App.js where the calculator works.
-### STEP 3:
+### Step 3:
 Include Style in the react using app.css and import it to App.js.
-### STEP 4:
+### Step 4:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
+## Program:
 ### App.css
 ```css
 .calculator {
@@ -144,8 +144,8 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX06/assets/93427303/6622c1ac-8e9c-402c-bdd1-e7def6708c12)
 
-## RESULT:
+## Result:
 React app to develop a complete Simple calculator application with all features has been created and output has been verified.
